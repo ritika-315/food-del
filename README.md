@@ -31,22 +31,19 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 ## Screenshots
 
-![Hero](<img width="1895" height="823" alt="image" src="https://github.com/user-attachments/assets/189d8f43-946c-4f29-b18d-7ee51cb2a5f9" />
-)
-<img width="1895" height="823" alt="image" src="https://github.com/user-attachments/assets/b524ea70-c238-4309-9e5b-97cc494f2d64" />
+<img width="1895" height="823" alt="image" src="https://github.com/user-attachments/assets/189d8f43-946c-4f29-b18d-7ee51cb2a5f9" />
 
 - Hero Section
 
-![Products](<img width="1892" height="822" alt="image" src="https://github.com/user-attachments/assets/1c4c6201-4518-454f-94b6-44b566d24038" />
-)
+<img width="1892" height="822" alt="image" src="https://github.com/user-attachments/assets/1c4c6201-4518-454f-94b6-44b566d24038" />
 - Products Section
 
-![Cart](<img width="1893" height="821" alt="image" src="https://github.com/user-attachments/assets/2944f2b6-a1c2-46db-baf2-7e117043817c" />
-)
+<img width="1893" height="821" alt="image" src="https://github.com/user-attachments/assets/2944f2b6-a1c2-46db-baf2-7e117043817c" />
+
 - Cart Page
 
-![Login](<img width="1898" height="822" alt="image" src="https://github.com/user-attachments/assets/7eb6240f-4496-49fe-86d8-7e7027139f81" />
-)
+<img width="1898" height="822" alt="image" src="https://github.com/user-attachments/assets/7eb6240f-4496-49fe-86d8-7e7027139f81" />
+
 - Login Popup
 
 ## Run Locally
