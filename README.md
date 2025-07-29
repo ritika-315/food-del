@@ -33,6 +33,8 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 ![Hero](<img width="1895" height="823" alt="image" src="https://github.com/user-attachments/assets/189d8f43-946c-4f29-b18d-7ee51cb2a5f9" />
 )
+<img width="1895" height="823" alt="image" src="https://github.com/user-attachments/assets/b524ea70-c238-4309-9e5b-97cc494f2d64" />
+
 - Hero Section
 
 ![Products](<img width="1892" height="822" alt="image" src="https://github.com/user-attachments/assets/1c4c6201-4518-454f-94b6-44b566d24038" />
